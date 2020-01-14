@@ -50,7 +50,7 @@
             <dependency>
                 <groupId>com.pragmaticobjects.oo.meta</groupId>
                 <artifactId>meta-freemarker</artifactId>
-                <version>0.0.0-SNAPSHOT</version>
+                <version>0.0.0</version>
             </dependency>
             <dependency>
                 <groupId>com.pragmaticobjects.oo.meta</groupId>
